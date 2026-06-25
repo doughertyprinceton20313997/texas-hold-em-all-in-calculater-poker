@@ -11,7 +11,7 @@ The **♠️ Texas Hold'em All-In Calculator** is an educational tool for poker 
 
 <div align="center">
 
-[![Download Texas Hold'em All-In Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/texas-hold-em-all-in)
+[![Download Texas Hold'em All-In Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/texas-hold-em-all-in)
 
 </div>
 
@@ -103,7 +103,7 @@ Poker odds are hard to calculate in your head. You need to know your chance of w
 3. **🖱️ Run** `PokerCalculator.exe`
 4. **🎮 Start calculating**
 
-[![Download Texas Hold'em All-In Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/texas-hold-em-all-in)
+[![Download Texas Hold'em All-In Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/texas-hold-em-all-in)
 
 ### Quick Start
 
@@ -208,7 +208,7 @@ A: Yes. No payments, no crypto miners, no remote access.
 
 <div align="center">
 
-[![Download Texas Hold'em All-In Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/texas-hold-em-all-in)
+[![Download Texas Hold'em All-In Calculator](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/texas-hold-em-all-in)
 
 **Version 2.1.0** — Poker odds trainer. Free forever.
 
